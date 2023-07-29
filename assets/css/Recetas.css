@@ -1,0 +1,17 @@
+.recetas {
+    background: #dab997;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5rem 1rem;
+}
+
+@media (min-width: 768px) {
+   .recetas{
+    padding: 5rem 0 0 2.5rem;
+   }
+}
+@media (min-width: 992px) {
+   .recetas{
+    padding: 5rem 0 0 5rem;
+   }
+}
