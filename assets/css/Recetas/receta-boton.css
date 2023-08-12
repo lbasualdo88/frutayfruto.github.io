@@ -5,6 +5,7 @@
     color: #fdfdfd;
     padding: 1rem;
     transition: all .1s ease-in-out;
+    margin-bottom: 0;
 }
 .receta__boton:hover{
     cursor: pointer;

@@ -5,3 +5,9 @@
     color: #8c8888;
     
 }
+@media (max-width: 480px) {
+   .rodapie__descripcion {
+    text-align: center;
+    margin: 0;
+   }
+}

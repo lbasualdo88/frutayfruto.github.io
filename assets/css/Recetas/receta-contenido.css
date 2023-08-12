@@ -1,4 +1,8 @@
 .receta__contenido {
     padding: 1rem;
-    
+    display: flex;
+    flex-direction: column;
+}
+.receta__contenido button {
+    align-self: center;
 }

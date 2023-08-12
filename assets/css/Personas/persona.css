@@ -1,15 +1,12 @@
 .persona{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    margin-bottom: 0;
 }
-@media (min-width: 0) {
+@media (max-width: 480px) {
    .persona{
     margin-bottom: 2rem;
-    
-   }
-}
-@media (min-width: 768px) {
-   .persona{
-    margin-bottom: 0;
+    align-self: center;
    }
 }

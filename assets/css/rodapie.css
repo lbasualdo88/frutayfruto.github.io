@@ -6,3 +6,11 @@
     padding-left: 2rem;
     padding-right: 2rem;
 }
+@media (max-width: 480px) {
+   .rodapie {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   }
+}
