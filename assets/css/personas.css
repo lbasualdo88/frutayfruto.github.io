@@ -8,7 +8,7 @@
     flex-direction: column;
    }
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
    .personas{
     flex-direction: row;
    }

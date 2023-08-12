@@ -14,3 +14,10 @@
     align-items: center;
    }
 }
+@media (max-width: 768px) {
+    .rodapie {
+        display: flex;
+        justify-content: space-around;
+    }
+   
+}
