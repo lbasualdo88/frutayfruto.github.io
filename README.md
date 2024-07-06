@@ -1,21 +1,21 @@
 
 Título del Proyecto: <br/>
-Fruta & Fruto
+Fruta & Fruto<br/>
 <br/>
 Tipo de Proyecto:<br/>
-Académico
+Académico<br/>
 <br/>
 Autor del Proyecto:<br/>
-Jeanmarie
+Jeanmarie<br/>
 <br/>
 Institución:<br/>
-Alura Latam
+Alura Latam<br/>
 <br/>
 Curso de donde se aprendió:<br/>
-Desarrollador Front End 
+Desarrollador Front End <br/>
 <br/>
 Categoría del Proyecto:<br/>
-Frontend
+Frontend<br/>
 <br/>
 Tecnologías Usadas en el Proyecto:<br/>
 HTML <br/>
