@@ -2,7 +2,7 @@
 <strong>Título del Proyecto:<strong> <br/>
 Fruta & Fruto<br/>
 <br/>
-<strong>Tipo de Proyecto:<strong><br/>
+<b>Tipo de Proyecto:<b><br/>
 Académico<br/>
 <br/>
 <strong>Autor del Proyecto:<strong><br/>
