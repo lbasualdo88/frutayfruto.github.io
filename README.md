@@ -1,28 +1,28 @@
 
-Título del Proyecto: <br/>
+<strong>Título del Proyecto:<strong> <br/>
 Fruta & Fruto<br/>
 <br/>
-Tipo de Proyecto:<br/>
+<strong>Tipo de Proyecto:<strong><br/>
 Académico<br/>
 <br/>
-Autor del Proyecto:<br/>
-Jeanmarie<br/>
+<strong>Autor del Proyecto:<strong><br/>
+Profesora: Jeanmarie <br/>
 <br/>
-Institución:<br/>
+<strong>Institución:<strong><br/>
 Alura Latam<br/>
 <br/>
-Curso de donde se aprendió:<br/>
+<strong>Curso de donde se aprendió:<strong><br/>
 Desarrollador Front End <br/>
 <br/>
-Categoría del Proyecto:<br/>
+<strong>Categoría del Proyecto:<strong><br/>
 Frontend<br/>
 <br/>
-Tecnologías Usadas en el Proyecto:<br/>
+<strong>Tecnologías Usadas en el Proyecto:<strong><br/>
 HTML <br/>
 CSS <br/>
 JavaScript <br/>
 <br/>
-Funcionalidad del Proyecto:<br/>
+<strong>Funcionalidad del Proyecto:<strong><br/>
 El proyecto "Fruta & Fruto" es un sitio web diseñado para promover el aprovechamiento de los alimentos a través de recetas saludables y prácticas. El sitio incluye varias secciones como:<br/>
 <br/>
 Cabecera: Contiene el logo y un menú de navegación.<br/>
@@ -32,7 +32,7 @@ Recetas: Una galería de recetas con imágenes, descripciones y botones para ver
 Quienes Somos: Información sobre el equipo detrás de la iniciativa, con imágenes y descripciones de cada miembro.<br/>
 Contacto: Sección de pie de página con enlaces de contacto como WhatsApp, Email e Instagram.<br/>
 <br/>
-Lo Aprendido en la Realización del Proyecto:<br/>
+<strong>Lo Aprendido en la Realización del Proyecto:<strong><br/>
 Durante la realización del proyecto "Fruta & Fruto", se adquirieron y fortalecieron las siguientes habilidades:<br/>
 <br/>
 CSS Avanzado: Uso de Flexbox y Grid para el diseño responsivo.<br/>
